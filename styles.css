@@ -16,3 +16,24 @@ canvas {
 #collisionCanvas {
     opacity: 0;
 }
+
+  #restartBtn {
+    display: none;
+    position: fixed;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 32px;
+    padding: 15px 30px;
+    cursor: pointer;
+    z-index: 10;
+    background-color: #e74c3c;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    transition: background-color 0.3s ease;
+  }
+  #restartBtn:hover {
+    background-color: #c0392b;
+  }
