@@ -24,7 +24,7 @@ Raven Shooter is a fast-paced 2D point-and-shoot game built using **JavaScript**
 
 ## 🚀 Live Demo
 Play the game live here:  
--------------------------->
+https://raven-shooter-2d-game.netlify.app/
 
 ---
 
